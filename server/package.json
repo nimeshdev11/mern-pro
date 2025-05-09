@@ -9,5 +9,9 @@
     "start": "nodemon index,js"
   },
   "author": "Nimesh Thakur",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express-validator": "^7.2.1"
+  }
 }
